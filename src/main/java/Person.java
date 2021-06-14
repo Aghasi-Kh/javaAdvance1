@@ -9,6 +9,7 @@ public class Person {
 
     public Person() {
     }
+
     public Person(String name, String surName, List<String> phoneNumbers, Car car) {
         this.firstName = name;
         this.lastName = surName;
