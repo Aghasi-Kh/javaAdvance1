@@ -8,7 +8,6 @@ public class Main {
     public static void main(String[] args)  {
         List<String> phoneNumber = new ArrayList<>();
         phoneNumber.add("+37494657895");
-        phoneNumber.add("+37455711175");
 
         Person person = new Person("Aghasi", "Khachatryan", phoneNumber, new Car("Hyundai", "White"));
         String xml="";
